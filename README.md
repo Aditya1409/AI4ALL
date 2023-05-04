@@ -12,5 +12,5 @@ number of shares.
 
 
 The objective of this project is to understand & replicate the Instagram Personalized 
-Advertisement algorith within a Python environment by implementing a K-Means clustering based 
+Advertisement algorithm within a Python environment by implementing a K-Means clustering based 
 on user likings and interests.
